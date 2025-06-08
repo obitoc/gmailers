@@ -1,7 +1,14 @@
-# ![Omg](https://img.icons8.com/?size=50&id=Y2GfpkgYNp42&format=png&color=003393) gmailers
-### :star: :email: An Cli Tool For Sending Gmails
+<h1 align="center">
+  <img src="https://img.icons8.com/?size=80&id=Y2GfpkgYNp42&format=png&color=003393" alt="Gmail Icon" width="50"/>
+  gmailers
+</h1>
+
+<p align="center">
+  <strong>:email: A CLI Tool for Sending Gmail</strong>
+</p>
+
 ----------
-## :star: Usage
+## :rocket: Usage
 ```console
 $ gmailers --help
 ```
