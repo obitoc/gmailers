@@ -1,4 +1,4 @@
-# ![Omg](https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=003393) gmailers
+# ![Omg](https://img.icons8.com/?size=50&id=Y2GfpkgYNp42&format=png&color=003393) gmailers
 ### :star: :email: An Cli Tool For Sending Gmails
 ----------
 ## :star: Usage
