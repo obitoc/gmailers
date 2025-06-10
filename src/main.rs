@@ -12,7 +12,7 @@ use lettre::{SmtpTransport,
             message::Message,
             transport::smtp::authentication::Credentials,
             Transport};
-use colored::*;
+use colored::Colorize;
 #[derive(Debug,Parser)]
 #[command(author = "obito", version = "1", about = "Cli Tool For Gmail Sending", long_about = None)]
 struct Args {
